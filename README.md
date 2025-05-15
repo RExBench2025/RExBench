@@ -26,7 +26,7 @@
 Each subdirectory inside instructions/ contains an instructions.md file that describes the task setting.
 
 ### 🎒 Dataset 
-: ([Dataset Link](https://drive.google.com/file/d/1v4prWb-5lu69teNTdd6PZwsdMXxz_xqn/view?usp=drive_link))
+: [Dataset Link](https://drive.google.com/file/d/1v4prWb-5lu69teNTdd6PZwsdMXxz_xqn/view?usp=drive_link)
 
 ### ✅ Included Tasks
 * checkeval
