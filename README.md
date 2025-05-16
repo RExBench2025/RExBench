@@ -1,5 +1,6 @@
 <div align="center">
-## RExBench : Can coding agents autonomously implement AI research extensions?
+
+# RExBench : Can coding agents autonomously implement AI research extensions?
 
 **Authors**: Anonymous
 
