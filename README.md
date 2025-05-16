@@ -1,7 +1,9 @@
-## RExBench : A Research Extension Benchmark for Autonomous Coding Agents
+<div align="center">
+## RExBench : Can coding agents autonomously implement AI research extensions?
 
 **Authors**: Anonymous
 
+</div>
 
 ### 📂 Repository Structure
 
